@@ -1,2 +1,1 @@
-# sistema-crud
-Primeiro sistema de crud
+Desde que comecei a estudar programação fiquei me perguntado  como funcionava um sistema de login. Quando comecei a estudar JDBC criei esse sistema de CRUD, e finalmente pude entender como funciona um sistema de login
