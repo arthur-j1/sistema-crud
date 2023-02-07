@@ -1,1 +1,2 @@
-Desde que comecei a estudar programação fiquei me perguntado  como funcionava um sistema de login. Quando comecei a estudar JDBC criei esse sistema de CRUD, e finalmente pude entender como funciona um sistema de login
+Desde que comecei a estudar programação fiquei me perguntado  como funcionava um sistema de login. Quando comecei a estudar JDBC criei esse sistema de CRUD, e finalmente pude entender como funciona um sistema de login.
+Utilizei o arquivo properties para guardar o acesso ao banco de dados, e não ficar exposto no meio do código. E claro, só enviei o arquivo junto com o código porque é um exemplo de código
